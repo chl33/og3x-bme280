@@ -1,0 +1,19 @@
+{
+  "name": "og3x-bme280",
+  "version": "0.0.1",
+  "description": "A library for esp projects",
+  "keywords": "esp32, esp8266, oled",
+  "authors": [
+    {
+      "name": "Chris Lee",
+      "email": "lee.chris.h@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "chl33/og3": "0.0.1",
+    "adafruit/Adafruit BME280 Library": "~2.1.2"
+  },
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "espressif8266, espressif32, native"
+}
